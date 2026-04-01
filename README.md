@@ -32,7 +32,6 @@ Modern financial tools focusing on decentralized lending interfaces and secure, 
 ### 🎓 Utilities & Foundational Projects
 - **[sgpa-calculator](https://github.com/ashishh-tech/sgpa-calculator):** A fast and reliable utility built with TypeScript to calculate academic Semester Grade Point Averages.
 - **[html-portfolio](https://github.com/ashishh-tech/html-portfolio):** Foundational web templates, responsive designs, and HTML projects.
-- **[ashishh-tech](https://github.com/ashishh-tech/ashishh-tech):** This profile repository!
 
 ---
 

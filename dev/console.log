@@ -1,8 +1,0 @@
-[22860:11876:0226/132023.817:ERROR:google_apis\gcm\engine\registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-Created TensorFlow Lite XNNPACK delegate for CPU.
-[22860:11876:0226/132052.567:ERROR:google_apis\gcm\engine\registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[22860:11876:0226/132137.475:ERROR:google_apis\gcm\engine\registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[22860:11876:0226/132315.079:ERROR:google_apis\gcm\engine\registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[22860:11876:0226/132709.716:ERROR:google_apis\gcm\engine\registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[22860:11876:0226/133502.529:ERROR:google_apis\gcm\engine\registration_request.cc:290] Registration response error message: DEPRECATED_ENDPOINT
-[22860:14012:0226/134224.066:ERROR:components\device_event_log\device_event_log_impl.cc:202] [13:42:24.066] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
