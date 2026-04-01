@@ -1,124 +1,58 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=AstroPsycho&fontSize=80&fontAlignY=35&desc=High-Tech%20Vedic%20Astrology%20Framework&descAlignY=55&descAlign=62&animation=twinkling" />
-
-# 🌌 AstroPsycho: The Celestial Intelligence Platform 🌌
-### <div align="center">🔮 Ancient Wisdom Architecture &middot; AI-Driven Analysis &middot; Real-Time Celestial Math 🚀</div>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vedic_Engine-v8.0-64ffda?style=for-the-badge&logoColor=64ffda" />
-  <img src="https://img.shields.io/badge/Precision-Lahiri_Ayanamsa-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployments-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-[✨ **LAUNCH THE COSMIC DASHBOARD**](https://main.astropsycho.pages.dev)
-
+  <h1>👋 Hi, I'm Ashish (<a href="https://github.com/ashishh-tech">@ashishh-tech</a>)</h1>
+  <p><b>Full-Stack Developer | Web3 Builder | AI & IoT Innovator</b></p>
 </div>
 
----
-
-## 🏗️ System Architecture (The "Astro-Stack")
-
-AstroPsycho is built on a high-precision modular architecture that processes raw planetary ephemeris into psychological and predictive insights.
-
-```mermaid
-graph TD
-    User([Cosmic Seeker]) -->|Birth Data| Input[Input Normalization Layer]
-    Input -->|JD Calculation| EngineV8[Vedic Astrology Engine V8]
-    
-    subgraph Core_Intelligence[Computational Core]
-        EngineV8 -->|Sidereal Lon| Panchang[Panchang Engine]
-        EngineV8 -->|Strength| Shadbala[Shadbala Engine]
-        EngineV8 -->|Time-Series| Dasha[Vimshottari Dasha Engine]
-    end
-    
-    subgraph Specialists[Predictive Specialists]
-        Panchang --> Birthday[Hindu Birthday Tracker]
-        Panchang --> Clock[Planetary Clock Engine]
-        EngineV8 --> Compatibility[Marriage Matching Engine]
-        EngineV8 --> Solar[Solar Return Engine]
-        Shadbala --> Career[Career Intelligence Engine]
-        Dasha --> Transit[Transit Tracker]
-    end
-    
-    Specialists -->|Unified Data| UI[Premium Neon Dashboard]
-```
+I'm a passionate developer focused on building scalable, innovative, and impactful solutions. My core focus spans across **Web3 (Stellar/Soroban)**, **Smart Mobility (IoT & Traffic Systems)**, and **High-Precision AI platforms**.
 
 ---
 
-## 💎 AstroPsycho Core Pillars (Standout Features)
+## 🚀 Featured Projects & Repositories
 
-The framework is architected to provide professional-grade astrological depth.
+### 🔮 [AstroPsycho](https://github.com/ashishh-tech/AstroPsycho)
+> **🌟 AI-Powered Vedic Astrology Platform**
+A comprehensive astrology platform offering Kundali generation, Dashas, transits, and compatibility analysis. It utilizes a high-precision NASA JPL DE431 Swiss Ephemeris engine (via WebAssembly) to calculate planetary positions down to sub-arcsecond accuracy, elegantly integrated with an AI chatbot for highly personalized astrological readings.
+- **Tech Stack:** JavaScript, Node.js, WASM
 
-| Feature | Description | High-Tech Implementation |
-| :--- | :--- | :--- |
-| **☸️ Precision Kundali Engine** | Authentic Natal Charts (D1) calculated using sidereal ephemeris algorithms. | *Lahiri Ayanamsa Precision* |
-| **🧬 60+ Divisional Maps (Varga)** | Complete hierarchy from Navamsa (D9) to Shashtiamsa (D60) with instant rendering. | *Recursive Divisional Logic* |
-| **💞 Marriage Matching Engine** | Comprehensive Koota-based compatibility analysis with Mangalik Dosha detection. | *Guna-Milan Algorithm* |
-| **🌞 Solar Return (Varshaphala)** | Precise annual chart generation to predict the year ahead based on Sun's return. | *Vedic Solar-Year Math* |
-| **⏳ Vimshottari Dasha Explorer** | Fluid temporal navigation through life cycles from Mahadasha to Antardasha levels. | *Temporal Time-Series Math* |
-| **🤖 AI-Driven Astro-Insights** | Advanced pattern matching that interprets dozens of simultaneous planetary yogas. | *Neural Interpretation Layer* |
-| **💪 Shadbala Strength HUD** | A 6-fold visual HUD displaying the "directional" and "temporal" potency of all planets. | *Directional Strength Vectors* |
-| **🔮 Planetary Clock** | Real-time tracking of planets moving through zodiac degrees, updated every second. | *Live Ephemeris Polling* |
+### 🚦 [GLOSA-BHARAT](https://github.com/ashishh-tech/GLOSA-BHARAT) & [GLOSA-BHARAT-2.0](https://github.com/ashishh-tech/GLOSA-BHARAT-2.0)
+> **Smart Traffic Management System**
+An intelligent traffic optimization platform (Green Light Optimized Speed Advisory). Designed to provide real-time AI advisory speed recommendations, live traffic light simulations, and route intelligence to reduce vehicle emissions and dramatically improve traffic flow. Includes custom dashboard UIs and hardware (Arduino) integrations.
+- **Tech Stack:** JavaScript, IoT, WebSockets
 
----
+### 💸 [peer-to-peer-lending-stellar](https://github.com/ashishh-tech/peer-to-peer-lending-stellar)
+> **Decentralized Lending Platform on Stellar Blockchain 🚀**
+A smart contract-based lending platform enabling trustless transactions between lenders and borrowers. Built natively with **Soroban smart contracts** on the Stellar Testnet. Features an incredibly fast, transparent, and fee-efficient architecture.
+- **Tech Stack:** Rust, Soroban, Stellar Blockchain
 
-## 🔬 Technical Superiority & Math
+### 💳 [TRUSTPAY](https://github.com/ashishh-tech/TRUSTPAY) & [STELLARLEND](https://github.com/ashishh-tech/STELLARLEND)
+> **FinTech & Web3 Payments**
+Modern financial tools focusing on decentralized lending interfaces and secure, trustless payment mechanisms leveraging blockchain technology.
+- **Tech Stack:** TypeScript, JavaScript, Web3
 
-AstroPsycho distinguishes itself by running 100% of its complex astrophysical calculations natively in the browser's engine, ensuring zero latency and total user privacy.
-
-- **Ephemeris Engine:** Custom high-fidelity JS implementation of Swiss-grade ephemeris math.
-- **Privacy-First Intelligence:** All birth data and chart generation happen locally; no personal data ever leaves your device.
-- **GPU-Accelerated HUD:** UI components are optimized for 60fps, even when calculating complex dasha transitions.
-- **Modular Astro-Logic:** Decoupled engine architecture allows for specialized "Predictive Plugins" (Transit, Career, Relationship compatibility).
-
----
-
-## 🛠️ The Cosmic Tech Stack
-
-### **Core Intelligence**
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Ephemeris_Math-Lahiri-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Algorithms-Client_Side-64ffda?style=for-the-badge" />
-
-### **Visual Language**
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Mermaid-Charts-purple?style=for-the-badge" />
-
-### **Infrastructure**
-<img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Wrangler-v4.74.0-white?style=for-the-badge&logo=cloudflare&logoColor=orange" /> <img src="https://img.shields.io/badge/Git_Sync-High-black?style=for-the-badge&logo=git" />
+### 🎓 Utilities & Foundational Projects
+- **[sgpa-calculator](https://github.com/ashishh-tech/sgpa-calculator):** A fast and reliable utility built with TypeScript to calculate academic Semester Grade Point Averages.
+- **[html-portfolio](https://github.com/ashishh-tech/html-portfolio):** Foundational web templates, responsive designs, and HTML projects.
+- **[ashishh-tech](https://github.com/ashishh-tech/ashishh-tech):** This profile repository!
 
 ---
 
-## 🚀 Instant Deployment (Local Galaxy)
+## 🛠️ Languages & Technologies
 
-```bash
-# Clone the repository
-git clone https://github.com/ashishh-tech/AstroPsycho.git
-
-# Enter the cosmic portal
-cd AstroPsycho
-
-# Launch the local star (any local server)
-npx serve .
-```
+- **Languages:** JavaScript, TypeScript, Rust, HTML/CSS
+- **Blockchain & Web3:** Stellar, Soroban Smart Contracts
+- **Backend & Core:** Node.js, REST APIs, WebSockets
+- **Specialized Integrations:** WebAssembly (WASM), Hardware/IoT (Arduino)
 
 ---
 
-## 🤝 Project Governance
+## 📫 Let's Connect!
 
-We welcome "High-Tech" contributions! Please refer to our:
-- [🐛 Bug Report Template](.github/ISSUE_TEMPLATE/bug_report.yml)
-- [🚀 Feature Request Template](.github/ISSUE_TEMPLATE/feature_request.yml)
-- [🛡️ Contribution Guide](.github/PULL_REQUEST_TEMPLATE.md)
+- **GitHub:** [@ashishh-tech](https://github.com/ashishh-tech)
+- **Portfolio / Website:** *(Add your link here)*
+- **LinkedIn:** *(Add your link here)*
 
----
+<br />
 
 <div align="center">
-
-*"The stars do not compel, they impel."* 🌠
-
-**⭐ Star the repo if this celestial experience resonates with you! ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=64ffda&height=120&section=footer" />
-
+  <i>"Always building, always learning. Recently bridged NASA-grade WASM ephemeris into a pure JS astrology engine!"</i>
 </div>
