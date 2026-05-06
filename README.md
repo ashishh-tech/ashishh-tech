@@ -7,6 +7,16 @@ I'm a passionate developer focused on building scalable, innovative, and impactf
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishh-tech&show_icons=true&theme=radical&count_private=true" alt="Ashish's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishh-tech&theme=radical" alt="Ashish's GitHub Streak" />
+</div>
+
+---
+
 ## 🚀 Featured Projects & Repositories
 
 ### 🔮 [AstroPsycho](https://github.com/ashishh-tech/AstroPsycho)
