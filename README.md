@@ -110,7 +110,7 @@
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishh-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ashish's GitHub Stats" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishh-tech&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishh-tech&layout=compact&theme=radical&hide=html,css&count_private=true&langs_count=6" alt="Top Languages" height="170" />
 
   <br /><br />
 
